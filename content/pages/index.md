@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: lINKEDIN
-        url: ''
+        url: 'https://www.linkedin.com/in/trangtran1995/'
         size: large
         variant: contained
         color: primary
