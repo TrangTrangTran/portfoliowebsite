@@ -44,7 +44,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/create/overview'
       - type: Card
-        title: Second Card Title
+        title: Ramen Rating data visualization
         image:
           type: Image
           url: /images/ramen.webp
