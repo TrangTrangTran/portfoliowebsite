@@ -59,7 +59,7 @@ sections:
             label: Read the Docs
             url: 'https://docs.netlify.com/create/overview'
       - type: Card
-        title: Third Card Title
+        title: Agatha Christie novels web scraping
         image:
           type: Image
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
