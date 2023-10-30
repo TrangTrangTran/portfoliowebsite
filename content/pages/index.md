@@ -67,5 +67,6 @@ sections:
         actions:
           - type: Button
             label: Read more
-            url: 'https://docs.netlify.com/create/overview'
+            url: >-
+              https://github.com/TrangTrangTran/web_scraping/tree/main/agatha_christie_novels
 ---
