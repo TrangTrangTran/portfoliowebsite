@@ -18,7 +18,7 @@ sections:
         label: GITHUB
         url: 'https://github.com/TrangTrangTran'
         size: large
-        variant: outlined
+        variant: contained
         color: primary
     image:
       type: Image
