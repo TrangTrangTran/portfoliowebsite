@@ -5,13 +5,15 @@ sections:
   - type: HeroSection
     title: About me
     subtitle: ''
-    text: >
-      This is **Markdown** *text*.
+    text: >+
+      Hello,
 
 
+      My name is Trang. I am a data learner and a life-long learner who believes
+      in the strength of self-study. Data exploration with a delta of novelty
+      can help people find data more interesting and see valuable insights.
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-      veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+
+      My email : trangtran.work.23\@gmail.com
+
 ---
