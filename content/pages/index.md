@@ -38,7 +38,7 @@ sections:
           Use SQL to analyze time series data of a superstore. 
         actions:
           - type: Button
-            label: Read the Docs
+            label: Read More
             url: 'https://docs.netlify.com/create/overview'
       - type: Card
         title: Ramen Rating data visualization
