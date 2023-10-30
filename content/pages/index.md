@@ -10,7 +10,7 @@ sections:
     actions:
       - type: Button
         label: lINKEDIN
-        url: 'https://docs.netlify.com/create/quickstart'
+        url: ''
         size: large
         variant: contained
         color: primary
