@@ -60,8 +60,8 @@ sections:
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
           altText: Third item image
         text: >
-          Use Beautiful Soup, Request libraries to scrape a list of Agatha
-          Christie mysterious novels from Wikipedia.
+          Use Beautiful Soup and request libraries to scrape a list of Agatha
+          Christie's mysterious novels from Wikipedia.
         actions:
           - type: Button
             label: Read the Docs
