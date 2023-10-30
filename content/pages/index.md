@@ -51,7 +51,7 @@ sections:
           from The Ramen Rater website's data.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Read more
             url: 'https://docs.netlify.com/create/overview'
       - type: Card
         title: Agatha Christie novels web scraping
