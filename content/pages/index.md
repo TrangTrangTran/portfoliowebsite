@@ -22,7 +22,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/vangoghmuseum-d0420V1962-800.jpg
       altText: Hero section image
   - type: CardsSection
     title: What I've worked on
