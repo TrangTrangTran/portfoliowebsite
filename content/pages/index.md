@@ -29,7 +29,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Card Title
+        title: Time series data analysis by SQL
         image:
           type: Image
           url: /images/markus-winkler-IrRbSND5EUc-unsplash.jpg
