@@ -5,10 +5,8 @@ sections:
   - type: HeroSection
     title: Portfolio website
     subtitle: 'Data learner, writing lover, and data storyteller.'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/create/features/local-development)
+    text: |
+      Data with a delta of novelty to find valuable insights.
     actions:
       - type: Button
         label: Start Building
