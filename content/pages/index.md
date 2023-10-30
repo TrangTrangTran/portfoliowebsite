@@ -53,7 +53,8 @@ sections:
         actions:
           - type: Button
             label: Read more
-            url: 'https://docs.netlify.com/create/overview'
+            url: >-
+              https://github.com/TrangTrangTran/Data-Visualization/tree/main/Ramen_ratings
       - type: Card
         title: Agatha Christie novels web scraping
         image:
