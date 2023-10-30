@@ -39,7 +39,8 @@ sections:
         actions:
           - type: Button
             label: Read More
-            url: 'https://docs.netlify.com/create/overview'
+            url: >-
+              https://github.com/TrangTrangTran/SQL_Projects/tree/main/Timeseries_supermarket_data
       - type: Card
         title: Ramen Rating data visualization
         image:
