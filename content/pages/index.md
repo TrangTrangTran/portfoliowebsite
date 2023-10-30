@@ -15,7 +15,7 @@ sections:
         variant: contained
         color: primary
       - type: Button
-        label: Read the Docs
+        label: GITHUB
         url: 'https://docs.netlify.com/create/overview'
         size: large
         variant: outlined
