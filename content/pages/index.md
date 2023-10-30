@@ -16,7 +16,7 @@ sections:
         color: primary
       - type: Button
         label: GITHUB
-        url: 'https://docs.netlify.com/create/overview'
+        url: 'https://github.com/TrangTrangTran'
         size: large
         variant: outlined
         color: primary
