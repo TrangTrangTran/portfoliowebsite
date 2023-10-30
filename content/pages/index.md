@@ -64,6 +64,6 @@ sections:
           Christie's mysterious novels from Wikipedia.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Read more
             url: 'https://docs.netlify.com/create/overview'
 ---
