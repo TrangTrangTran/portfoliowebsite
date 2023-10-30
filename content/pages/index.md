@@ -9,7 +9,7 @@ sections:
       Data with a delta of novelty to find valuable insights.
     actions:
       - type: Button
-        label: Start Building
+        label: lINKEDIN
         url: 'https://docs.netlify.com/create/quickstart'
         size: large
         variant: contained
