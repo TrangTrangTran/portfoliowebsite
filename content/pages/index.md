@@ -38,8 +38,9 @@ sections:
           Use SQL to analyze time series data of a superstore. 
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/create/overview'
+            label: Read More
+            url: >-
+              https://github.com/TrangTrangTran/SQL_Projects/tree/main/Timeseries_supermarket_data
       - type: Card
         title: Ramen Rating data visualization
         image:
@@ -51,8 +52,9 @@ sections:
           from The Ramen Rater website's data.
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/create/overview'
+            label: Read more
+            url: >-
+              https://github.com/TrangTrangTran/Data-Visualization/tree/main/Ramen_ratings
       - type: Card
         title: Agatha Christie novels web scraping
         image:
@@ -64,6 +66,7 @@ sections:
           Christie's mysterious novels from Wikipedia.
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/create/overview'
+            label: Read more
+            url: >-
+              https://github.com/TrangTrangTran/web_scraping/tree/main/agatha_christie_novels
 ---
