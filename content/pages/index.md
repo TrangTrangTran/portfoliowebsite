@@ -60,10 +60,8 @@ sections:
           url: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
           altText: Third item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Use Beautiful Soup, Request libraries to scrape a list of Agatha
+          Christie mysterious novels from Wikipedia.
         actions:
           - type: Button
             label: Read the Docs
